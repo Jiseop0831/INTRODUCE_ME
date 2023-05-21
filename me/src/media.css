@@ -1,0 +1,83 @@
+/**********************media*************************/
+
+/* @media screen and (max-width:1800px) {
+} */
+
+/* @media screen and (max-width:1470px)  {
+    .Others_potpolio_potpolio {
+        display: none;
+    }
+} */
+
+@media screen and (max-width:940px) {
+    .main_name_span {
+        padding-left: 0px;
+    }
+    .main_name {
+        text-align: center;
+        margin: 0 auto;
+        margin-left: 10px;
+    }
+    .main_menu {
+        right: 5%;
+        font-size: 4rem;
+    }
+}
+
+@media screen and (max-width:777px) {
+    .left {
+        display: none;
+    }
+    .My-Life_birth {
+        margin-left: 30px;
+    }
+    .menu_name_disign {
+        transform: translateX(-60px);
+    }
+    .Contact_ul {
+        margin-left: 20px;
+    }
+    .Others_ul {
+        margin-left: 20px;
+    }
+}   
+
+@media screen and (max-width:750px) {
+    .main_name {
+        margin-left: 40px;
+        font-size: 5rem;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .main_me {
+        font-size: 3.5rem;
+        left: 6%;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .main_name {
+        font-size: 4rem;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .main_name {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .Contact_go {
+        display: none;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .main_name {
+        display: none;
+    }
+}
+
+/**********************media*************************/
